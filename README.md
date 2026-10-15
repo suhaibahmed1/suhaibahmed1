@@ -35,7 +35,7 @@ class Suhaib:
         self.name       = "Suhaib Ahmed"
         self.role       = "SOC Analyst & Full-Stack Developer"
         self.university = "Sir Syed University of Engineering & Technology"
-        self.degree     = "B.S. Software Engineering (Final Year) | CGPA 3.5"
+        self.degree     = "B.S. Software Engineering (Final Year)"
         self.location   = "Karachi, Pakistan"
         self.focus      = ["SOC Operations", "SIEM", "Incident Response", "Threat Detection", "Web Development"]
         self.learning   = ["AI in Cybersecurity", "MITRE ATT&CK", "Threat Hunting", "ISO 27001"]
@@ -89,7 +89,7 @@ suhaib = Suhaib()
 Alert monitoring, triage, escalation, and documentation in a live SOC environment during my ITSolera internship.
 
 **📡 SIEM Monitoring**
-Hands-on with **Wazuh** and **IBM QRadar** for log analysis, correlation, and detection of suspicious activity.
+Configured detection rules in **Wazuh** and **IBM QRadar** for attack patterns, and correlated alerts across multiple log sources.
 
 **🚨 Incident Response**
 Working through detection, containment, eradication, and recovery using the NIST incident response lifecycle.
@@ -97,11 +97,17 @@ Working through detection, containment, eradication, and recovery using the NIST
 **🧭 MITRE ATT&CK**
 Mapping observed behavior to adversary tactics and techniques to give alerts context.
 
+**📦 Packet Analysis**
+Analyzing packet captures in **Wireshark** to spot protocol anomalies and suspicious traffic.
+
 </td>
 <td width="50%" valign="top">
 
 **🤖 AI in Cybersecurity**
 Applying machine learning to intrusion detection on the CICIDS 2017 dataset, with alert generation and severity classification.
+
+**📧 Phishing & Email Analysis**
+Examining email headers and verifying **SPF, DKIM, and DMARC** to identify phishing attempts.
 
 **🕵️ Threat Intelligence & OSINT**
 Investigated a phishing domain and produced an OSINT-based threat intelligence report.
@@ -328,6 +334,10 @@ Academic security work including a DVAPI API pentest report (OWASP API Top 10), 
 **📜 Certifications & Training**
 - 🔐 **Google Cybersecurity Certificate**
 - 🎯 **CEH Training**, NAVTTC at Corvit Systems
+- 🛡️ **Cybersecurity Professional Development**, UIT University (2024)
+  - Configured detection rules in Wazuh and IBM QRadar for attack patterns
+  - Analyzed packet captures in Wireshark to identify protocol anomalies
+  - Correlated alerts from multiple log sources and examined email headers to identify phishing using SPF, DKIM, and DMARC verification
 
 </td>
 <td width="50%" valign="top">
@@ -335,70 +345,6 @@ Academic security work including a DVAPI API pentest report (OWASP API Top 10), 
 **💼 Internships**
 - 🛡️ **ITSolera**: SOC environment, alert monitoring and incident handling
 - ⛽ **Pakistan State Oil (PSO)**: Logistics Department, built internal systems
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=suhaibahmed1&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
-
-<br/><br/>
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=suhaibahmed1&bg_color=0d1117&color=00c2a8&line=3b82f6&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🌱 Current Learning Roadmap
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[SOC Fundamentals] --> B[SIEM Workflows]
-    B --> C[MITRE ATT&CK]
-    C --> D[Incident Response]
-    D --> E[AI in Cybersecurity]
-    E --> F[Threat Hunting]
-    F --> G[GRC & ISO 27001]
-```
-
-</div>
-
-| Area | Focus |
-|---|---|
-| 🖥️ **SOC Fundamentals** | CIA Triad, OSI / TCP-IP, log sources, alert triage |
-| 📡 **SIEM Workflows** | Wazuh and QRadar: correlation, dashboards, investigations |
-| 🧭 **MITRE ATT&CK** | Mapping alerts to tactics and techniques |
-| 🚨 **Incident Response** | NIST IR lifecycle, playbooks, reporting |
-| 🤖 **AI in Cybersecurity** | ML-based detection, alert classification, analyst tooling |
-| 📜 **GRC** | ISO 27001 and PKCERT PISF compliance basics |
-
----
-
-## 🏆 Highlights
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-- 🛡️ Worked in a **SOC environment** during internship at ITSolera
-- 📡 Hands-on with **Wazuh** and **IBM QRadar** SIEM platforms
-- 🎓 Earned the **Google Cybersecurity Certificate**
-
-</td>
-<td width="50%" valign="top">
-
-- 🏢 Built internal systems at **Pakistan State Oil** for real operational workflows
-- 🤖 Built an **AI-based IDS** and a **SOC dashboard** with MITRE ATT&CK mapping
-- 📊 Graduating with a **3.5 CGPA** in Software Engineering
 
 </td>
 </tr>
