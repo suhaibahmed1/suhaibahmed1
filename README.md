@@ -334,10 +334,7 @@ Academic security work including a DVAPI API pentest report (OWASP API Top 10), 
 **📜 Certifications & Training**
 - 🔐 **Google Cybersecurity Certificate**
 - 🎯 **CEH Training**, NAVTTC at Corvit Systems
-- 🛡️ **Cybersecurity Professional Development**, UIT University (2024)
-  - Configured detection rules in Wazuh and IBM QRadar for attack patterns
-  - Analyzed packet captures in Wireshark to identify protocol anomalies
-  - Correlated alerts from multiple log sources and examined email headers to identify phishing using SPF, DKIM, and DMARC verification
+- 🛡️ **Cybersecurity Professional Development**, UIT University
 
 </td>
 <td width="50%" valign="top">
